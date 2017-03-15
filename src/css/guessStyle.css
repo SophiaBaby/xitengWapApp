@@ -1,0 +1,259 @@
+.cfff{
+    color:#FFF;
+}
+.cred{
+    color:#FF4242;
+}
+.f18{
+    font-size:18px;
+}
+.game_item{
+    margin:0.3rem 0.25rem 0;
+    background: #1c242a;
+    -webkit-border-radius:0.1rem;
+    -moz-border-radius:0.1rem;
+    border-radius:0.1rem;
+}
+.guess_stock_fund{
+    padding-top:0.28rem;
+}
+.guess_fund{
+    font-size:0.34rem;
+    padding-right:0.15rem;
+}
+.guess_fund_details{
+    font-size:0.28rem;
+    padding-left:0.42rem;
+}
+.guess_fund_details_rate{
+    font-size:0.28rem;
+    padding-left:0.3rem;
+}
+.stock_game_name_pic{
+    width:1.72rem;
+    padding-top:0.42rem;
+}
+.time_bg{
+    /*background:url("/xitenggame/xitengWapApp/src/images/home_lg1@2x.png") no-repeat top center;*/
+    /*background-size: cover;*/
+    background:#2e343e;
+}
+.guess_next_stage_time{
+    font-size: 0.28rem;
+    padding-top:0.48rem;
+}
+.guess_next_stage{
+    padding-right:0.46rem;
+}
+.common_bg{
+    background:#2e343e;
+}
+.stockMarketPic{
+    display:block;
+    margin:0 auto;
+    width:calc(100% - 100px);
+}
+.guessUpDown{
+    background:url('../../src/images/PK@2x.png') no-repeat center center;
+    -webkit-background-size:0.49rem;
+    background-size:0.49rem;
+    padding-top:0.4rem;
+}
+.guessUpDown li{
+    width:50%;
+}
+.guess_total_money{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.guess_money_flag{
+    align-self: center;
+    height:0.28rem;
+    padding-right: 0.1rem;
+}
+.guess_btn{
+    margin-top:0.34rem;
+    padding-bottom:0.35rem;
+}
+.guess_guess_up_btn{
+    width:50%;
+    background:url('../../src/images/Home-Guess-up-button@2x.png') no-repeat center center;
+    -webkit-background-size:2.6rem;
+    background-size:2.6rem;
+    height:0.81rem;
+
+}
+.guess_guess_down_btn{
+    width:50%;
+    background:url('../../src/images/Home-Guess-down-button@2x.png') no-repeat center center;
+    -webkit-background-size:2.6rem;
+    background-size:2.6rem;
+    height:0.81rem;
+
+}
+.guess_xt_money{
+    background:url('../../src/images/home-S-currency@2x.png') no-repeat left center;
+    -webkit-background-size:0.18rem;
+    background-size:0.18rem;
+    padding-left:0.25rem;
+    font-size:0.29rem;
+}
+
+.guess_bet_money{
+    font-size:0.29rem;
+    color:#c0c0c0;
+}
+.guess_icon_bear{
+    background:url('../../src/images/icon_bear@2x.png') no-repeat center top;
+    -webkit-background-size:0.81rem;
+    background-size:0.81rem;
+    padding-top:1.49rem;
+}
+.guess_icon_cow{
+    background:url('../../src/images/icon_cow@2x.png') no-repeat center 0.13rem;
+    -webkit-background-size:1.32rem;
+    background-size:1.32rem;
+    padding-top:1.49rem;
+}
+.count_down_title{
+    font-size:34px;
+}
+.count_down_icon{
+    padding-left:0.4rem;
+    background:url('../../src/images/home_icon_time@2x.png') no-repeat left center;
+    -webkit-background-size:0.28rem;
+    background-size:0.28rem;
+    font-size: 0.24rem;
+}
+
+.bet_user_box{
+    padding:0.18rem 0.25rem;
+    height:2.22rem;
+    overflow: hidden;
+}
+.bet_user,
+.rank_user{
+    line-height: 0.74rem;
+    height:0.74rem;
+    overflow: hidden;
+}
+.bet_user_header,
+.rank_user_header{
+    width:0.5rem;
+    height:0.5rem;
+    overflow: hidden;
+    margin:0.12rem;
+    -webkit-border-radius:0.05rem;
+    -moz-border-radius:0.05rem;
+    border-radius:0.05rem;
+}
+.bet_user_name,
+.rank_user_name{
+    padding:0 0.13rem;
+    font-size:0.24rem;
+    width:1.9rem;
+    overflow: hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+}
+.bet_time,
+.guess_bet_current_money{
+    font-size:0.24rem;
+    color:#BBBBBB;
+    padding-right:0.2rem;
+}
+.bet_user_bet,
+.rank_user_bet{
+
+}
+.pk_title{
+    background:url('/xitenggame/xitengWapApp/src/images/home_line@2x.png') no-repeat top center;
+    -webkit-background-size:contain;
+    background-size: contain;
+    line-height:50px;
+}
+.guess_stock_god{
+    height:0.95rem;
+    line-height:0.95rem;
+    border-bottom:1px solid #DDDDDD;
+}
+.guess_stock_god_title{
+    font-size:0.32rem;
+}
+.guess_stock_god_classify{
+    font-size:0.24rem;
+}
+.pk_box{
+    border-top:0.3rem solid #1c242a ;
+    padding:0 0.25rem 50px;
+}
+.guess_rank_list{
+    margin-top:0.27rem;
+}
+.pk_pic{
+    margin:0.25rem 0 0.4rem;
+}
+.prize_pic{
+    display: block;
+    height:2.6rem;
+    -webkit-border-radius:6px;
+    -moz-border-radius:6px;
+    border-radius:6px;
+}
+.roll_up{
+    position:relative;
+    animation: roll 150s;
+    -webkit-animation: roll 150s;
+    animation-iteration-count:infinite;
+    -webkit-animation-iteration-count:infinite;
+    animation-timing-function:linear;
+    -webkit-animation-timing-function:linear;
+}
+@keyframes roll
+{
+    from {top:0}
+    to {top: -21.6rem;}
+}
+
+@-webkit-keyframes roll /* Safari 与 Chrome */
+{
+    from {top:0}
+    to {top: -21.6rem;}
+}
+
+
+.guess_header_carouser_box{
+    height:2.8rem;
+}
+.header_carouser_img_box{
+    top:0;
+    left:0;
+
+}
+
+
+.o_hide{
+    opacity: 0;
+}
+.o_show{
+    opacity:1;
+}
+@keyframes opacityChange
+{
+    from {opacity:0;}
+    to {opacity:1;}
+}
+@-webkit-keyframes opacityChange /* Safari 与 Chrome */
+{
+ from {opacity:0;}
+ to {opacity:1;}
+}
+.opacity_show{
+    animation: opacityChange 1s;
+    -webkit-animation: opacityChange 1s;
+    transition-timing-function: ease-out;
+    -moz-transition-timing-function: ease-out; /* Firefox 4 */
+    -webkit-transition-timing-function: ease-out; /* Safari 和 Chrome */
+    -o-transition-timing-function: ease-out; /* Opera */
+}

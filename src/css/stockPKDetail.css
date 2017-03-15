@@ -1,0 +1,51 @@
+.rankType{
+    width: 1.91rem;
+    height: 0.7rem;
+    background-size: cover;
+    line-height: 0.7rem;
+    background-image: url("../images/ranking_btn_d@2x.png");
+    text-align: center;
+    color: #fff;
+}
+.userInfo{
+    float: left;
+    color: #333;
+    margin: 0.14rem 0;
+    font-size: 0.3rem;
+}
+.rank{
+    width: 0.9rem;
+}
+.nick{
+    width: 2.5rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis ;
+}
+img{
+    width: 100%;
+}
+.championPic {
+    width : 0.36rem;
+    height:0.51rem
+}
+
+.dis_flex{
+    display: flex;
+    align-items: center;
+}
+.bodyBg{
+   overflow: hidden;
+    background-image: url("../images/gushen_bg@2x.png");
+    background-size: contain;
+}
+.fortune{
+    width: 1.5rem;
+    overflow: hidden;
+    color: #ff4243;
+}
+.fortune span{
+    background: url("../images/icon_maddle_red@2x.png") no-repeat left center;
+    background-size: 0.16rem 0.18rem;
+    padding-left: 0.18rem;
+}

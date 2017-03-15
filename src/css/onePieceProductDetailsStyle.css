@@ -1,0 +1,215 @@
+.f5f5f5{
+    background:#F5F5F5;
+}
+.onePiece_product_pic{
+    height:7.5rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+}
+.onePiece_pic{
+    height:7.5rem;
+    background:#FFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.onePiece_detail_text{
+    background:#FFF;
+    padding:0 0.2rem;
+}
+.onePiece_detail_text_title{
+    font-size:0.3rem;
+    color:#000;
+}
+.onePiece_detail_purchaseGame_status{
+    color:#FFF;
+    background:#F23030;
+    -webkit-border-radius:0.03rem;
+    -moz-border-radius:0.03rem;
+    border-radius:0.03rem;
+    font-size:0.24rem;
+    margin-right:0.2rem;
+}
+.onePiece_detail_text_description{
+    padding-top:0.24rem;
+    font-size: 0.24rem;
+}
+.onePiece_detail_text_priceOfOneBidInXtb{
+    font-size:0.24rem;
+}
+.onePiece_detail_text_priceOfOneBidInXtb_title{
+    padding-right:0.2rem;
+}
+.onePiece_detail_Xtb_one{
+    padding-left:0.2rem;
+    color:#F23030;
+    font-size:0.36rem;
+    background:url('../../src/images/icon_xitengbi-canyu@2x.png') no-repeat left 0.2rem;
+    -webkit-background-size:0.18rem;
+    background-size:0.18rem;
+}
+.onePiece_detail_purchaseGame_data{
+    padding:0 0.2rem;
+    margin-top:0.2rem;
+    background:#FFF;
+}
+.onePiece_detail_purchaseGame_stage{
+    padding-top:0.2rem;
+    font-size:0.28rem;
+}
+.onePiece_detail_purchaseGame_line{
+    margin-top:0.16rem;
+    height:0.1rem;
+    background:#DDD;
+    -webkit-border-radius:0.1rem;
+    -moz-border-radius:0.1rem;
+    border-radius:0.1rem;
+}
+.onePiece_detail_purchaseGame_line_rate{
+    top:0;
+    left:0;
+    height:0.1rem;
+    -webkit-border-radius:0.1rem;
+    -moz-border-radius:0.1rem;
+    border-radius:0.1rem;
+    background:#F23030;
+}
+.onePiece_detail_purchaseGame_data_other{
+    padding:0.16rem 0 0.3rem;
+    font-size:0.28rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.onePiece_detail_purchaseGame_data_other_red{
+    color:#F23030;
+}
+.onePiece_detail_purchaseGame_isJoin{
+    border-top:1px solid #E2E2E2;
+    font-size:0.24rem;
+}
+.onePiece_detail_purchaseGame_isJoin_no{
+    font-size:0.24rem;
+    line-height:1.04rem;
+}
+.onePiece_detail_purchaseGame_isJoin_btn{
+    color:#F23030;
+}
+.onePiece_detail_bidDetail_time_box{
+}
+.onePiece_detail_bidDetail_pruchaseGame_info{
+    padding:0.2rem 0;
+    border-bottom:1px solid #E2E2E2;
+}
+.onePiece_detail_bidDetail_pruchaseGame_info_left{
+    display: flex;
+    flex-direction: column;
+    padding:0 0.3rem;
+    background:#F23030;
+    color:#FFF;
+    line-height:0.5rem;
+    font-size: 0.24rem;
+}
+.onePiece_detail_bidDetail_join_info_red{
+    color:#F23030;
+}
+.onePiece_detail_bidDetail_records{
+    height:0.5rem;
+    line-height: 0.5rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.onePiece_detail_bidDetail_record_item{
+    padding:0 0.2rem;
+}
+.onePiece_detail_bidDetail_records_info{
+    height:0.5rem;
+    line-height: 0.5rem;
+    overflow: hidden;
+    width: 80%;
+    display:block;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+}
+.onePiece_detail_bidDetail_join_info{
+    font-size:0.24rem;
+}
+.onePiece_detail_other_function{
+    margin:0.2rem 0 1rem;
+    background:#FFF;
+    padding:0 0.2rem;
+}
+.onePiece_detail_other_function li{
+    padding-left:0.64rem;
+    margin-top:1px;
+    height:0.87rem;
+    font-size:0.3rem;
+    line-height:0.87rem;
+}
+.onePiece_detail_other_function_join_detail {
+    background:#FFF url('../../src/images/orderdetail_icon_canyuxiangqing@2x.png') no-repeat left center;
+    background-size: 0.44rem;
+}
+.onePiece_detail_other_function_old_activities{
+    background:#FFF url('../../src/images/orderdetail_icon_wangqijiexiao@2x.png') no-repeat left center;
+    background-size: 0.44rem;
+}
+.onePiece_detail_other_function_show{
+    background:#FFF url('../../src/images/orderdetail_icon_shaidan@2x.png') no-repeat left center;
+    background-size: 0.44rem;
+}
+.onePiece_detail_other_function_join_detail a,
+.onePiece_detail_other_function_old_activities a{
+    border-bottom:1px solid #E2E2E2;
+}
+.onePiece_detail_footer{
+    position:fixed;
+    bottom:0;
+    height:0.98rem;
+    background:#FFF;
+}
+.onePiece_join_footer_btn{
+    margin: 0.09rem 0.2rem;
+    height:0.8rem;
+    line-height: 0.8rem;
+    background:#4964ef;
+    font-size:0.36rem;
+    color:#FFF;
+    border:0.06rem;
+}
+.onePiece_detail_winner_info{
+    display: flex;
+    flex-direction: row;
+    background:#F9F2F0;
+    padding:0.3rem;
+}
+.onePiece_detail_winner_pic{
+    width:0.7rem;
+    height:0.7rem;
+    overflow: hidden;
+    -webkit-border-radius:0.03rem;
+    -moz-border-radius:0.03rem;
+    border-radius:0.03rem;
+}
+.onePiece_detail_winner_detail{
+    display: flex;
+    flex-direction: column;
+    padding-left:0.2rem;
+    font-size:0.24rem;
+    background:url('../../src/images/fortune.png') no-repeat top right;
+    -webkit-background-size:1rem;
+    background-size:1rem;
+}
+.onePiece_detail_luckCode{
+    padding-left:0.3rem;
+    height:0.74rem;
+    background:#F23030 url("../../src/images/orderdetail_yijiexiao_bg@2x.png") top;
+    background-size: 0.15rem;
+    color: #FFF;
+    font-size:0.24rem;
+    line-height:0.74rem;
+
+}

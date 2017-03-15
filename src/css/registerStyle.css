@@ -1,0 +1,31 @@
+.register_user_header{
+    margin:5px auto;
+    width:70px;
+    height:70px;
+    overflow: hidden;
+    -webkit-background-size:contain;
+    border-radius: 50px;
+}
+.register_list{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin:0 15px;
+    height:44px;
+    line-height:44px;
+    border-bottom:1px solid #E2E2E2;
+}
+.register_input_none{
+    display: flex;
+    flex:1;
+    outline:none;
+}
+.next_btn{
+    margin:30px 15px 0;
+    height:42px;
+    line-height:42px;
+    background:#4964EF;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+}

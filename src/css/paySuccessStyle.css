@@ -1,0 +1,18 @@
+.cblue{
+    color:#0A89FE;
+}
+.pay_success{
+    height:110px;
+    background:#FFF url("/xitenggame/xitengWapApp/src/images/common_icon_pay-success@2x.png") no-repeat center 15px;
+    background-size: 25px;
+    line-height:140px;
+}
+.pay_fail{
+    height:110px;
+    background:#FFF url("/xitenggame/xitengWapApp/src/images/pay_fail.png@2x.png") no-repeat center 15px;
+    background-size: 25px;
+    line-height:140px;
+}
+.pay_order_result{
+    line-height: 40px;
+}

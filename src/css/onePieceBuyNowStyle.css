@@ -1,0 +1,111 @@
+.onePiece_order_wrap{
+    position:fixed;
+}
+.onePiece_order_productInfo{
+    margin-top:0.2rem;
+    padding:0.2rem;
+    background:#FFF;
+    display: flex;
+    flex-direction: row;
+
+}
+.onePiece_order_productInfo_pic{
+    width:1.26rem;
+    height:1.26rem;
+    overflow: hidden;
+    -webkit-border-radius:0.03rem;
+    -moz-border-radius:0.03rem;
+    border-radius:0.03rem;
+}
+.onePiece_order_productInfo_detail{
+    margin:0.1rem 0 0.1rem 0.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size:0.24rem;
+}
+.onePiece_order_product_name{
+    font-size:0.28rem;
+    color:#333;
+}
+.onePiece_order_much{
+    margin-top:0.2rem;
+    padding:0.2rem 0.2rem 0;
+    background:#FFF;
+}
+.onePiece_order_buy_much{
+    padding:0.1rem 0.2rem;
+    line-height:0.82rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size:0.3rem;
+}
+.onePiece_order_ctrl{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    -webkit-border-radius:0.03rem;
+    -moz-border-radius:0.03rem;
+    border-radius:0.03rem;
+    height:0.6rem;
+    border:1px solid #666;
+}
+.onePiece_order_ctrl_reduce,
+.onePiece_order_ctrl_add{
+    height:0.6rem;
+    width:0.6rem;
+    line-height: 0.6rem;
+}
+.onePiece_order_ctrl input{
+    width:1.1rem;
+    color:#F23030;
+    border-left:1px solid #666;
+    border-right: 1px solid #666;
+    height:0.6rem;
+    outline: none;
+}
+
+.onePiece_order_ctrl input[placeholder]{
+    color:#F23030;
+}
+.onePiece_order_buy_much_select_list{
+    padding:0.2rem 0.2rem 0.2rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.onePiece_order_buy_much_select_list li{
+    margin-left:0.2rem;
+    border:1px solid #666;
+    line-height:0.5rem;
+    height:0.5rem;
+    flex: 1;
+    -webkit-border-radius:0.06rem;
+    -moz-border-radius:0.06rem;
+    border-radius:0.06rem;
+}
+.onePiece_order_buy_money{
+    height:0.7rem;
+    line-height:0.7rem;
+    border-top:1px solid #E2E2E2;
+    padding: 0 0.2rem;
+    color:#F23030;
+    font-size:0.28rem;
+}
+.onePiece_confirm_btn{
+    color:#FFF;
+    height:0.8rem;
+    line-height:0.8rem;
+    margin:2.54rem 0.2rem 0;
+    font-size:0.3rem;
+    background:#0A89FE;
+    -webkit-border-radius:0.06rem;
+    -moz-border-radius:0.06rem;
+    border-radius:0.06rem;
+}
+.red_money{
+    background:url("../../src/images/icon_xitengbi-canyu@2x.png") no-repeat left center;
+    background-size: 0.18rem;
+    padding-left:0.23rem;
+}

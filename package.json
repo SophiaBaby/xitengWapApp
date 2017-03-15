@@ -1,0 +1,45 @@
+{
+  "name": "react_test_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0",
+    "react-redux": "^4.4.5",
+    "react-router-redux": "^4.0.5",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-0": "^6.5.0",
+    "file-loader": "^0.10.0",
+    "http-proxy-middleware": "^0.17.3",
+    "jquery": "^3.1.1",
+    "react": "^15.3.0",
+    "react-dom": "^15.0.2",
+    "react-hot-loader": "^1.3.0",
+    "react-router-redux": "^4.0.5",
+    "react-swipe": "^5.0.6",
+    "react-swiper": "^0.1.5",
+    "redux-devtools": "^3.3.1",
+    "redux-devtools-dock-monitor": "^1.1.1",
+    "redux-devtools-log-monitor": "^1.0.11",
+    "swipe-js-iso": "^2.0.3",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LIUDQ",
+  "license": "ISC"
+}

@@ -1,0 +1,43 @@
+.order_item{
+    background:#FFF;
+    margin-bottom:0.2rem;
+}
+.order_item_top{
+    display: flex;
+    flex-direction: row;
+    border-bottom:1px solid #E2E2E2;
+    padding:0.3rem 0.2rem;
+}
+.order_item_pic{
+    width:1.71rem;
+    height:1.71rem;
+    border:1px solid #E2E2E2;
+    -webkit-border-radius:0.03rem;
+    -moz-border-radius:0.03rem;
+    border-radius:0.03rem;
+}
+.order_item_detal{
+    flex: 1;
+    padding-left:0.2rem;
+    font-size:0.24rem;
+}
+.order_item_productName{
+    font-size:0.3rem;
+    color:#333;
+}
+.order_item_bottom{
+    height:0.85rem;
+    line-height:0.85rem;
+    font-size:0.28rem;
+    padding:0 0.2rem;
+}
+.bidRecordNodes{
+    padding-left:0.15rem;
+}
+.order_item_code{
+    display:inline-block;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    width:3rem;
+}

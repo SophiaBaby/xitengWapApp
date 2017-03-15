@@ -1,0 +1,95 @@
+.cfff{
+    color:#FFF;
+}
+.cred{
+    color:#FF4242;
+}
+.cgreen{
+    color:#03c56c;
+}
+.bet_body{
+    top:0;
+    bottom:0;
+    background:url("../../src/images/cai3-bg@2x.png");
+    -webkit-background-size:0.5rem;
+    background-size:0.5rem;
+}
+.betBtn{
+    margin:0 auto;
+    bottom:33%;
+    color:#FFF004;
+    background:url("../../src/images/bet-imm-btn@2x.png") no-repeat center center;
+    -webkit-background-size:3.4rem;
+    background-size:3.4rem;
+    height:0.89rem;
+}
+.bgLight{
+    width:7.5rem;
+    height:11.5rem;
+}
+.bet_header{
+    display: flex;
+    justify-content: center;
+}
+.bet_header_item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex:1;
+    margin-left:3px;
+    height:77px;
+    background:#0082c8;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    opacity:0.8;
+}
+.bet_center{
+    margin-top:40px;
+}
+.input_money_box{
+    display: flex;
+    justify-content: center;
+    margin:0 50px;
+    height:42px;
+    line-height:42px;
+}
+.input_money_box p{
+    min-width:40px;
+}
+.input_money{
+    flex: 3;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    background:url('../../src/images/cai3-bg@2x.png');
+    -webkit-background-size:0.5rem;
+    background-size:0.5rem;
+    border:1px solid #FFF;
+}
+.selected_box{
+    display: flex;
+    margin:0.9rem 0.45rem 0;
+    justify-content: space-between;
+    height:1.2rem
+}
+.balance_box{
+    margin:0.37rem 0.45rem 0;
+    font-size:0.26rem;
+}
+.selected_money{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    background:#777;
+    -webkit-border-radius:0.1rem;
+    -moz-border-radius:0.1rem;
+    border-radius:0.1rem;
+}
+.bet_footer{
+    position:fixed;
+    bottom:0.66rem;
+    font-size:0.24rem;
+    color:#EEE;
+}

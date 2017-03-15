@@ -1,0 +1,46 @@
+.cfff{
+    color:#FFF;
+}
+.cblue{
+    color:#0A89FE;
+}
+.login_logo{
+    margin:5px auto;
+    width:70px;
+    height:70px;
+    overflow: hidden;
+    background:url("/xitenggame/xitengWapApp/src/images//logo@2x.png") no-repeat center;
+    -webkit-background-size:contain;
+    background-size:contain;
+}
+.login_input li{
+    display: flex;
+    flex-direction: row;
+    border-bottom:1px solid #E2E2E2;
+    line-height: 49px;
+}
+.login_phone_num,
+.login_password{
+    flex: 1;
+    outline:medium;
+}
+.login_wx{
+    position: fixed;
+    bottom:50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.login_btn{
+    margin:30px 15px;
+    border-radius: 3px;
+    background:#0A89FE;
+    line-height:44px;
+    height:44px;
+}
+.login_wx_btn{
+    background:url("/xitenggame/xitengWapApp/src/images/icon_weixin-@2x.png") no-repeat top center;
+    -webkit-background-size:55px;
+    background-size:55px;
+    padding-top:60px;
+}

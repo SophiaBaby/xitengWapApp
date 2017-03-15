@@ -1,0 +1,46 @@
+{
+  "awards": [
+    {
+      "name": "奖品名称1",
+      "rank": 1,
+      "count": 1,
+      "productInfo": {
+        "productId": 1,
+        "productName": "手机",
+        "sales": 100,
+        "inventory": 200,
+        "price": 200,
+        "picUrl": "src/images/touzhu_record_bg.png",
+        "shopId": 1
+      }
+    },
+    {
+      "name": "奖品名称2",
+      "rank": 2,
+      "count": 1,
+      "productInfo": {
+        "productId": 1,
+        "productName": "电脑",
+        "sales": 100,
+        "inventory": 200,
+        "price": 200,
+        "picUrl": "src/images/touzhu_record_bg.png",
+        "shopId": 1
+      }
+    },
+    {
+      "name": "奖品名称2",
+      "rank": 3,
+      "count": 1,
+      "productInfo": {
+        "productId": 1,
+        "productName": "苹果",
+        "sales": 100,
+        "inventory": 200,
+        "price": 200,
+        "picUrl": "src/images/touzhu_record_bg.png",
+        "shopId": 1
+      }
+    }
+  ]
+}

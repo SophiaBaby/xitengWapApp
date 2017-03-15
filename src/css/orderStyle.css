@@ -1,0 +1,43 @@
+.order_title{
+    height:0.98rem;
+    line-height:0.98rem;
+    font-size:0.28rem;
+    padding-left:0.2rem;
+    background:#FFF;
+}
+.order_title_icon{
+    background:url("../../src/images/me_indent-duobao@2x.png") no-repeat left center;
+    background-size:0.34rem;
+    padding-left:0.45rem;
+}
+.order_details_onePiece{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:1.69rem;
+    border-top:1px solid #E2E2E2;
+    line-height:2.2rem;
+    background:#FFF;
+    font-size:0.24rem;
+    overflow: hidden;
+}
+.order_details_onePiece li{
+    flex:1
+}
+.order_item_wait{
+    background:url("../../src/images/me_indent-duobao_jinixngzhong@2x.png") no-repeat  center 0.43rem;
+    -webkit-background-size:0.39rem;
+    background-size:0.39rem;
+}
+.order_item_win{
+    background:url("../../src/images/me_indent-duobao_yijiexiao@2x.png") no-repeat  center 0.43rem;
+    -webkit-background-size:0.39rem;
+    background-size:0.39rem;
+}
+
+.order_item_finish{
+    background:url("../../src/images/me_indent-duobao_daishaidan@2x.png") no-repeat  center 0.43rem;
+    -webkit-background-size:0.39rem;
+    background-size:0.39rem;
+}
+

@@ -1,0 +1,30 @@
+{
+  "content": [
+    {
+      "iconUrl": "",
+      "userName": "15210963519",
+      "bonusXtbAmount": 0,
+      "identityType":1  //0:普通会员，1:黄金会员，2:铂金会员，3:钻石会员
+    },
+    {
+      "iconUrl": "",
+      "userName": "18601250910",
+      "bonusXtbAmount": 0,
+      "identityType":1
+    },
+    {
+      "iconUrl": "",
+      "userName": "18001198760",
+      "bonusXtbAmount": 0,
+      "identityType":1
+    }
+  ],
+  "last": false,
+  "totalPages": 10,
+  "totalElements": 20,
+  "size": 10,
+  "number": 2,
+  "sort": null,
+  "first": false,
+  "numberOfElements": null
+}

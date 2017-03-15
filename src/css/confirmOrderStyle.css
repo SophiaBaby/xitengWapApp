@@ -1,0 +1,33 @@
+.f5f5f5{
+    background:#F5F5F5;
+}
+.fff{
+    background:#FFF;
+}
+.address_list{
+    height:44px;
+    line-height:44px;
+    border-bottom:1px solid #E2E2E2;
+    background:#FFF;
+}
+.order_def_address{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height:55px;
+}
+.order_user_name{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.order_user_n_m{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex: 1;
+}
+.order_user_address{
+    display: flex;
+    flex-direction: row;
+}

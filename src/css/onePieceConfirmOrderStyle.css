@@ -1,0 +1,40 @@
+.onePiece_productInfo{
+    margin-top:0.2rem;
+    padding:0.3rem 0.2rem;
+    height:1.7rem;
+    background:#FFF;
+    font-size:0.24rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-bottom:1px solid #E2E2E2;
+}
+.onePiece_productInfo_name{
+    font-size:0.3rem;
+    color:#333;
+}
+.onePiece_productInfo_money{
+    font-size:0.34rem;
+    color:#F23030;
+    background:url("../../src/images/icon_xitengbi-canyu@2x.png") no-repeat left center;
+    background-size: 0.25rem;
+    padding-left:0.3rem;
+}
+.onePiece_productInfo_realpay{
+    height:1rem;
+    line-height: 1rem;
+    padding:0 0.2rem;
+    background:#FFF;
+}
+.onePiece_confirm_btn{
+    color:#FFF;
+    height:0.8rem;
+    line-height:0.8rem;
+    margin:2.54rem 0.2rem 0;
+    font-size:0.3rem;
+    background:#0A89FE;
+    -webkit-border-radius:0.06rem;
+    -moz-border-radius:0.06rem;
+    border-radius:0.06rem;
+}
+

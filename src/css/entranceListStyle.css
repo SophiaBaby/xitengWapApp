@@ -1,0 +1,13 @@
+.entrance{
+    margin-top:15px;
+    border-top: 1px solid #E2E2E2;
+    background:#FFF;
+}
+.entrance_list{
+    height:44px;
+    border-bottom:1px solid #E2E2E2;
+    line-height:44px;
+}
+.entrance_name{
+    padding:12px 0 12px 45px;
+}

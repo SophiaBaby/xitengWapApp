@@ -1,0 +1,88 @@
+{
+  "productList": [
+    {
+      "iconUrl": "",
+      "userName": "15210963519",
+      "bonusXtbAmount": 0,
+      "identityType":1
+    },
+    {
+      "merchantName": null,
+      "cardTicketBasicInfo": null,
+      "favourite": false,
+      "productId": 152572,
+      "price": 2300,
+      "salesCnt": 177,
+      "title": "景田桶装水",
+      "subTitle": "景田桶装水",
+      "summary": "景田桶装水支持水票了,优惠多多",
+      "big_image": "http://www.huipay.com//huipayResource/hproduct/f922d53e-9e9c-4a9e-a073-16780ee31258.jpg",
+      "marketPrice": 2300,
+      "distance": 0.0,
+      "shopName": null,
+      "shopId": null,
+      "shippingFare": null,
+      "isFavourite": false,
+      "inventory": 500,
+      "images": [
+
+      ],
+      "cardTicketId": 8
+    },
+    {
+      "merchantName": null,
+      "cardTicketBasicInfo": null,
+      "favourite": false,
+      "productId": 122166,
+      "price": 200,
+      "salesCnt": 161,
+      "title": "b",
+      "subTitle": null,
+      "summary": "",
+      "big_image": "http://www.huipay.com//huipayResource/hproduct/045f6e2b-da89-4034-aec2-45b211205b33.png",
+      "marketPrice": 300,
+      "distance": 0.0,
+      "shopName": null,
+      "shopId": null,
+      "shippingFare": null,
+      "isFavourite": false,
+      "inventory": 0,
+      "images": [
+
+      ],
+      "cardTicketId": 0
+    },
+    {
+      "merchantName": null,
+      "cardTicketBasicInfo": null,
+      "favourite": false,
+      "productId": 122167,
+      "price": 1500,
+      "salesCnt": 179,
+      "title": "水果",
+      "subTitle": null,
+      "summary": "",
+      "big_image": "http://www.huipay.com//huipayResource/hproduct/b45f3deb-5c0b-4438-8fba-fdce4972fb90.png",
+      "marketPrice": 2000,
+      "distance": 0.0,
+      "shopName": null,
+      "shopId": null,
+      "shippingFare": null,
+      "isFavourite": false,
+      "inventory": 20,
+      "images": [
+
+      ],
+      "cardTicketId": 0
+    }
+  ],
+  "cod": false,
+  "mobilePay": true,
+  "responsePageInfo": {
+    "totalCount": 4,
+    "pageSize": 10,
+    "pageNo": 1
+  },
+  "isCod": false,
+  "isMobilePay": true
+}

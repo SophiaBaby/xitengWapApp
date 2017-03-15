@@ -1,0 +1,45 @@
+.cfff{
+    color:#FFF;
+}
+.fff{
+    background:#FFF;
+}
+.f5f5f5{
+    background:#F5F5F5;
+}
+
+.create_address_save{
+    z-index:1;
+    margin:30px 15px;
+    border-radius: 3px;
+    background:#0A89FE;
+    line-height:44px;
+    height:44px;
+}
+.new_address_info{
+    display: flex;
+    flex-direction: column;
+}
+.new_address_info li{
+    height:44px;
+    line-height:44px;
+    border-bottom:1px solid #E2E2E2;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.new_address_info li p{
+    width:80px;
+}
+.new_address_name input,
+.new_address_phone input,
+.new_address_district_selected,
+.new_address_detail input{
+    flex:1;
+    outline: none;
+}
+.new_address_set_default{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

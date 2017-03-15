@@ -1,0 +1,107 @@
+{
+  "productList": [
+    {
+      "merchantName": null,
+      "cardTicketBasicInfo": null,
+      "favourite": false,
+      "productId": 158464,
+      "price": 800,
+      "salesCnt": 104,
+      "title": "8颗钻石",
+      "subTitle": "兴谷泉桶装水",
+      "summary": "兴谷泉桶装水支持水票了,优惠多多",
+      "big_image": "http://www.huipay.com//huipayResource/hproduct/34a02435-1bb3-4cab-b7f7-cbb81ea3648d.jpg",
+      "marketPrice": 1500,
+      "distance": 0.0,
+      "shopName": null,
+      "shopId": null,
+      "shippingFare": null,
+      "isFavourite": false,
+      "inventory": 500,
+      "images": [
+
+      ],
+      "cardTicketId": 34
+    },
+    {
+      "merchantName": null,
+      "cardTicketBasicInfo": null,
+      "favourite": false,
+      "productId": 152572,
+      "price": 8800,
+      "salesCnt": 177,
+      "title": "88颗钻石",
+      "subTitle": "景田桶装水",
+      "summary": "景田桶装水支持水票了,优惠多多",
+      "big_image": "http://www.huipay.com//huipayResource/hproduct/f922d53e-9e9c-4a9e-a073-16780ee31258.jpg",
+      "marketPrice": 2300,
+      "distance": 0.0,
+      "shopName": null,
+      "shopId": null,
+      "shippingFare": null,
+      "isFavourite": false,
+      "inventory": 500,
+      "images": [
+
+      ],
+      "cardTicketId": 8
+    },
+    {
+      "merchantName": null,
+      "cardTicketBasicInfo": null,
+      "favourite": false,
+      "productId": 122166,
+      "price": 16800,
+      "salesCnt": 161,
+      "title": "168颗钻石",
+      "subTitle": null,
+      "summary": "",
+      "big_image": "http://www.huipay.com//huipayResource/hproduct/045f6e2b-da89-4034-aec2-45b211205b33.png",
+      "marketPrice": 300,
+      "distance": 0.0,
+      "shopName": null,
+      "shopId": null,
+      "shippingFare": null,
+      "isFavourite": false,
+      "inventory": 0,
+      "images": [
+
+      ],
+      "cardTicketId": 0
+    },
+    {
+      "merchantName": null,
+      "cardTicketBasicInfo": null,
+      "favourite": false,
+      "productId": 122167,
+      "price": 26800,
+      "salesCnt": 179,
+      "title": "268颗钻石",
+      "subTitle": null,
+      "summary": "",
+      "big_image": "http://www.huipay.com//huipayResource/hproduct/b45f3deb-5c0b-4438-8fba-fdce4972fb90.png",
+      "marketPrice": 2000,
+      "distance": 0.0,
+      "shopName": null,
+      "shopId": null,
+      "shippingFare": null,
+      "isFavourite": false,
+      "inventory": 20,
+      "images": [
+
+      ],
+      "cardTicketId": 0
+    }
+  ],
+  "cod": false,
+  "mobilePay": true,
+  "responsePageInfo": {
+    "totalCount": 4,
+    "pageSize": 10,
+    "pageNo": 1
+  },
+  "isCod": false,
+  "isMobilePay": true
+}
+
+

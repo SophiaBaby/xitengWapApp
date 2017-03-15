@@ -1,0 +1,57 @@
+.f5f5f5{
+    background:#F5F5F5;
+}
+.c000{
+color:#000;
+}
+.fff{
+    background:#FFF;
+}
+.cred{
+    color:#FF4242;
+}
+.product_info{
+    border-top: 1px solid #E2E2E2;
+    border-bottom:1px solid #E2E2E2;
+}
+.product_pic{
+    margin:10px 15px;
+    width:50px;
+    height:50px;
+    overflow: hidden;
+}
+.payWay_pic{
+    margin:15px;
+    width: 34px;
+    height:34px;
+}
+.payWay_title{
+    height:40px;
+    line-height:40px;
+    border-top:1px solid #E2E2E2;
+}
+.product_name{
+    line-height:26px;
+}
+.product_info{
+    border-top:1px solid #E2E2E2;
+    border-bottom:1px solid #E2E2E2;
+}
+.payWay_box{
+    border-top:1px solid #E2E2E2;
+}
+.payWay_box li{
+    border-bottom:1px solid #E2E2E2;
+}
+.selected{
+    background:#FFF url("/xitenggame/xitengWapApp/src/images/btn_choose_s@2x.png") no-repeat 95% center;
+    -webkit-background-size:20px;
+    background-size:20px;
+}
+.pay_btn{
+    margin:40px 15px;
+    border-radius: 3px;
+    background:#0A89FE;
+    line-height:44px;
+    height:44px;
+}

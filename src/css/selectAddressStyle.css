@@ -1,0 +1,45 @@
+.f5f5f5{
+    background:#F5F5F5;
+}
+.fff{
+    background:#FFF;
+}
+.selected_address_body{
+    padding-bottom:47px;
+    min-height:calc(100% - 47px);
+}
+.create_address_btn{
+    height:44px;
+    line-height:44px;
+    border-bottom:1px solid #E2E2E2;
+    background:#FFF;
+}
+.address_item{
+    height:55px;
+    border-top:1px solid #E2E2E2;
+    display: flex;
+    flex-direction: row;
+}
+.address_item_select{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    padding-left: 15px;
+}
+.address_item_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 6;
+}
+.address_item_edit{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    padding-right: 15px;
+}
+.selected_address_save{
+    z-index: 1;
+}

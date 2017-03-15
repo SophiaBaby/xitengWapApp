@@ -1,0 +1,16 @@
+.addBankCard{
+    height: 100vh;
+    background: #000000;
+    overflow: scroll;
+}
+
+.addBankCard_entry{
+    margin: 0.5rem 0.2rem;
+    border: 1px dotted #fff;
+    color: #fff;
+    font-size: 0.4rem;
+    padding: 1rem 0;
+}
+
+
+

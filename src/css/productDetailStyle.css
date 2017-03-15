@@ -1,0 +1,97 @@
+.f5f5f5{
+    background:#F5F5F5;
+}
+.cfff{
+    color:#FFF;
+}
+.c000{
+    color:#000;
+}
+.cred{
+    color:#FF4242;
+}
+.red_XT_icon{
+    background:url("/xitenggame/xitengWapApp/src/images/icon_maddle_red@2x.png") no-repeat left center;
+    -webkit-background-size:12px;
+    background-size:12px;
+}
+.detail_product_info{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-top:1px solid #E2E2E2;
+    height:95px;
+    background:#FFF;
+}
+.detail_delivery{
+    height:35px;
+    line-height: 35px;
+    border-bottom:1px solid #E2E2E2;
+    border-top:1px solid #E2E2E2;
+    background:#FFF;
+}
+.red_checked{
+    padding-left:20px;
+    background:url('/xitenggame/xitengWapApp/src/images/iconfont-duihao@2x.png') no-repeat left center;
+    -webkit-background-size:15px;
+    background-size:15px;
+}
+.shop_footer{
+    position:fixed;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    bottom:0;
+    height:44px;
+    border-top:1px solid #E2E2E2;
+
+}
+.shop_service_phone,
+.shop_product_cart{
+    display: flex;
+    flex: 1;
+    border-right:1px solid #E2E2E2;
+}
+.shop_service_phone_icon{
+    background:#FFF url('/xitenggame/xitengWapApp/src/images/iconfont-dianhua@2x.png') no-repeat center 5px;
+    background-size: 20px;
+    padding-top:25px;
+}
+.shop_link_cart{
+    position:relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.shop_cart_icon{
+    background:#FFF url("/xitenggame/xitengWapApp/src/images/iconfont-gouwuche@2x.png") no-repeat center 5px;
+    background-size: 20px;
+    padding-top:25px;
+}
+.shop_put_cart,
+.shop_buy{
+    display: flex;
+    flex:2;
+    flex-direction: row;
+    justify-content: center;
+    line-height:44px;
+}
+.shop_put_cart{
+    background:#FFBA26;
+}
+.shop_buy{
+    background:#FF4242;
+}
+.shop_cart_total{
+    position: absolute;
+    top:3px;
+    right:15%;
+    background:#FF4242;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+    border-radius:15px;
+    width:15px;
+    height:15px;
+    line-height:15px;
+    overflow: hidden;
+}

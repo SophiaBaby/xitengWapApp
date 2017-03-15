@@ -1,0 +1,58 @@
+.onePiece_record_item{
+    padding:0.2rem;
+    height:1.94rem;
+    display: flex;
+    flex-direction: row;
+    border-bottom:1px solid #E2E2E2;
+}
+.onePiece_record_img{
+    width:0.85rem;
+    height:0.85rem;
+    -webkit-border-radius:0.03rem;
+    -moz-border-radius:0.03rem;
+    border-radius:0.03rem;
+    overflow: hidden;
+}
+.onePiece_record_detail{
+    padding-left:0.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.onePiece_record_detail_name{
+    font-size:0.32rem;
+    color:#2b5490;
+}
+.onePiece_record_detail_time{
+    font-size:0.28rem;
+}
+
+.onePiece_join_result{
+    padding:0.3rem;
+    font-size:0.28rem;
+    background:#FFF;
+}
+.onePiece_join_result_success_box{
+    padding-top:0.6rem;
+    font-size:0.3rem;
+    color:#4964ef;
+}
+.onePiece_join_result_success{
+    background:url("../../src/images/icon_pay-success@2x.png") no-repeat center top;
+    -webkit-background-size:0.5rem;
+    background-size:0.5rem;
+    padding-top:0.6rem;
+}
+.onePiece_join_result_wait{
+    padding-top:0.26rem;
+}
+.onePiece_join_result_order_info{
+    margin-top:0.2rem;
+    background:#FFF;
+    font-size:0.28rem;
+    padding:0.2rem;
+    line-height:0.5rem;
+}
+.onePiece_join_result_purchaseCode{
+    padding-right:0.2rem;
+}

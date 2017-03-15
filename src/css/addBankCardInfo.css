@@ -1,0 +1,35 @@
+.addBankCardInfo{
+    height: 100vh;
+    overflow: scroll;
+    background: #eee;
+}
+.borderB_line{
+    border-bottom: 1px solid #eee;
+}
+.bFF{
+    background: #fff;
+}
+.nextBtn{
+    margin: 0.5rem;
+    background: #0A89FE;
+    color: #fff;
+    font-size: 0.2rem;
+    padding: 0.3rem 0;
+}
+
+.videoBox{
+    margin:0.2rem;
+}
+
+.infoInput{
+    background: #ffffff;
+    font-size: 0.25rem;
+    padding: 0.2rem 0.5rem;
+}
+
+
+
+
+
+
+

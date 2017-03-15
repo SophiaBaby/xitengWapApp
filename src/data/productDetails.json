@@ -1,0 +1,21 @@
+{
+  "merchantName": null,
+  "favourite": false,
+  "productId": 117868,
+  "price": 5500,
+  "salesCnt": 179,
+  "title": "愁肠百结",
+  "subTitle": null,
+  "summary": "gv",
+  "big_image": "http://114.251.53.22/huipayResource/hproduct/4c7f669e-d9c2-4613-966d-77acbbb55e5b.png",
+  "marketPrice": 588500,
+  "distance": 0,
+  "shopName": null,
+  "shopId": null,
+  "shippingFare": null,
+  "isFavourite": false,
+  "inventory": 58,
+  "images": [
+    "http://114.251.53.22/huipayResource/hproduct/f46c01cb-ee25-4e72-b603-c9c965562cf3.png"
+  ]
+}

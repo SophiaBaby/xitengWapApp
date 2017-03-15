@@ -1,0 +1,134 @@
+.cblue{
+    color:#0A89FE;
+}
+.cred{
+    color:#FF4242;
+}
+.cgold{
+    color:#FBEC00;
+}
+.my_header{
+    height:95px;
+    display: flex;
+    flex-direction: row;
+    background:#FFF;
+}
+.my_header_icon{
+    width:73px;
+    height:73px;
+    overflow: hidden;
+}
+.my_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.my_assert{
+    top:44px;
+}
+.my_account{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:55px;
+    background:#FFF;
+    border-bottom:1px solid #E2E2E2;
+}
+.my_account li{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    border-left: 1px solid #E2E2E2;
+}
+.my_account_big_XTCoins{
+    padding-top:70px;
+    background:#FFF url('../../src/images/xt_coins_2.png') no-repeat center;
+    background-size: 40px;
+    line-height:50px;
+    border-bottom:1px solid #E2E2E2;
+}
+.my_account_XTCoins{
+    background:url('../../src/images/xt_coins_2.png') no-repeat 25px center ;
+    background-size: 17px;
+}
+.my_account_color_coins{
+    background:url('../../src/images/color_coins.png') no-repeat 25px center;
+    background-size: 17px;
+}
+.record_bet{
+    background:url("../../src/images/touzhu_top_bg.png") no-repeat center;
+    background-size: cover;
+}
+.record_bet_info_money{
+    display: flex;
+    align-items: flex-end;
+    height:2rem;
+    background:url("../../src/images/touzhu_record_icon1.png") no-repeat center 0.3rem ;
+    -webkit-background-size:0.61rem;
+    background-size:0.61rem;
+}
+.record_bet_info_num{
+    display: flex;
+    align-items: flex-end;
+    height:2rem;
+    background:url("../../src/images/touzhu_record_icon2.png") no-repeat center 0.3rem ;
+    -webkit-background-size:0.61rem;
+    background-size:0.61rem;
+}
+.bigGoldFont{
+    font-size:0.32rem;
+}
+.record_bet_info_top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background:url("../../src/images/touzhu_record_bg_line.png") no-repeat center bottom;
+    -webkit-background-size:contain;
+    background-size:contain;
+    font-size:0.24rem;
+    padding-bottom:0.2rem;
+}
+.record_bet_info_bottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size:0.24rem;
+    padding-bottom:0.2rem;
+}
+.record_bet_info_top li,
+.record_bet_info_bottom li{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.unLogin{
+    height:44px;
+    line-height:44px;
+    border-top:1px solid #E2E2E2;
+    border-bottom:1px solid #E2E2E2;
+    background:#FFF;
+}
+.my_toLogin{
+    background:#FFF;
+    height:44px;
+    line-height: 44px;
+}
+.bet_record_list{
+    margin:0.3rem 0.24rem 0;
+    -webkit-border-radius:0.03rem;
+    -moz-border-radius:0.03rem;
+    border-radius:0.03rem;
+    -webkit-box-shadow: 0 0 3px #888;
+    -moz-box-shadow: 0 0 3px #888;
+    box-shadow: 0 0 3px #888;
+
+}
+.bet_record_time{
+    line-height:0.8rem;
+}
+.record_praise{
+    background:url("../../src/images/btn_like_black_d.png") no-repeat center center;
+    -webkit-background-size:0.45rem;
+    background-size:0.45rem;
+}

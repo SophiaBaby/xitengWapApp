@@ -1,0 +1,132 @@
+.footer-guess{
+    display: flex;
+    position: fixed;
+    bottom:0;
+    flex-direction:row; /* 默认 row 横向排列 */
+    background:#FFF;
+}
+.guessBtn{
+    flex-grow:1;
+    line-height:0.9rem;
+    color:#FFF;
+    margin:0.2rem 0.25rem;
+    -webkit-border-radius:0.8rem;
+    -moz-border-radius:0.8rem;
+    border-radius:0.8rem;
+    overflow: hidden;
+}
+.red{
+    background:#FF4243;
+}
+.green{
+    background:#02C56B;
+}
+.cfff{
+    color:#FFF;
+}
+.stock_game_detail_body{
+    background:#F5F5F5;
+}
+.stock_game_detail_guess_up_down_statistics{
+    margin-top:0.28rem;
+}
+.stock_game_detail_header{
+    padding:0.1rem 0.25rem 0;
+}
+.stock_game_detail_index{
+    font-size: 0.42rem;
+}
+.stock_game_detail_up_down_index{
+    font-size:0.24rem;
+    padding-left:0.7rem;
+}
+.stock_game_detail_up_down_rate{
+    font-size:0.24rem;
+    padding-left:0.24rem;
+}
+.stock_game_detail_header_detail{
+    font-size:0.26rem;
+}
+.stock_game_detail_header_detail_title{
+    color:#999999;
+}
+.stock_game_detail_pic_box{
+    margin:0.3rem 0.25rem 0;
+}
+.stock_game_detail_pic{
+    display: block;
+    height:3.75rem;
+    overflow: hidden;
+}
+.stock_game_detail_info_box{
+    padding:0.36rem 0 0.38rem;
+    background:#FFF;
+    margin-bottom:1.62rem;
+}
+.stock_game_detail_info{
+    font-size:0.24rem;
+    color:#FF4243;
+}
+.stock_game_detail_open_time{
+    padding-left:0.3rem;
+}
+.stock_game_detail_count_down_icon{
+    background:url('../../src/images/cai2-icon-_time@2x.png') no-repeat left center;
+    -webkit-background-size:0.3rem;
+    background-size:0.3rem;
+    padding-left:0.32rem
+}
+.stock_game_detail_end_time{
+    padding-top:0.3rem;
+    font-size:0.3rem;
+    color:#333333;
+}
+
+.stock_game_detail_guess_up,
+.stock_game_detail_guess_down{
+    width:50%;
+}
+.stock_game_detail_guess_up_cow{
+    display: inline-block;
+    padding:0.42rem 1.7rem 0 0;
+    background:url('../../src/images/icon_cow@2x.png') no-repeat center;
+    font-size:0.26rem;
+    -webkit-background-size:0.69rem;
+    background-size:0.69rem;
+    color:#FF4243;
+}
+.stock_game_detail_guess_down_bear{
+    display: inline-block;
+    padding:0.42rem 0 0 1.7rem;
+    background:url('../../src/images/icon_bear@2x.png') no-repeat center;
+    font-size:0.26rem;
+    -webkit-background-size:0.43rem;
+    background-size:0.43rem;
+    color:#02C56B;
+}
+.stock_game_detail_guess_up_line{
+    margin-top:0.12rem;
+    padding-top: 0.23rem;
+    background:url('../../src/images/cai2-red-line@2x.png') no-repeat center top;
+    -webkit-background-size:auto 0.05rem;
+    background-size:auto 0.05rem;
+    font-size:0.26rem;
+}
+.black_xt_money{
+    padding-left:0.18rem;
+    background:url('../../src/images/cai2-S-currency-@2x.png') no-repeat left 0.1rem;
+    -webkit-background-size:0.14rem;
+    background-size:0.14rem;
+}
+.stock_game_detail_guess_down_line{
+    margin-top:0.12rem;
+    padding-top: 0.23rem;
+    background:url('../../src/images/cai2-green-line@2x.png') no-repeat center top;
+    -webkit-background-size:auto 0.05rem;
+    background-size:auto 0.05rem;
+    font-size:0.26rem;
+}
+
+.margin_footer{
+    margin-bottom:65px;
+}
